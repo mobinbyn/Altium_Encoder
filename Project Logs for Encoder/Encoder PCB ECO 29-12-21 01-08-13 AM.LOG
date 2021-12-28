@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=OutA Pin=P1-2
+Removed Pin From Net: NetName=OutB Pin=P1-3
+Added Member To Class: ClassName=Encoder Member=Component C4 Capacitor C SMD 1206
+Added Room: Name=Encoder
